@@ -141,6 +141,8 @@ int main()
 
                 }
             break;
+            case 'e': exit(0);
+            case 'E': exit(0);    
              case 72:
                 for(i=0;i<4;i++)
                 {
